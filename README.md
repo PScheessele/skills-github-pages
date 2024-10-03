@@ -21,7 +21,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 5: Merge your pull request
 
-_Nice work, friend :heart:! People will be reading your blog in no time!_
+_Nice work, friend :heart:! People will (hehehe) be reading your blog in no time!_
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
